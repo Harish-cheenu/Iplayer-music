@@ -1,0 +1,13 @@
+.search-input{
+    border: 0;
+    border-radius: 500px;
+    margin-left: 1rem;
+    color: #000;
+    font-size: larger;
+    height: 3rem;
+    padding: 0rem 0 0 1rem;
+    text-overflow: ellipsis;
+    width: 30vw;
+    cursor: text;
+    outline: none;
+}

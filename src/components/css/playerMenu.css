@@ -1,0 +1,27 @@
+.player_Menu{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(128, 125, 121);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}
+.song_info{
+    display: flex;
+    flex-direction:row;
+}
+.song_info--text{
+    margin: 1rem;
+}
+.song_info--img{
+    width: 4.5rem;
+    height: 4.5rem;
+}
+.song_control_icons{
+    width: 6rem;
+    display: flex;
+    justify-content: space-between;
+}
